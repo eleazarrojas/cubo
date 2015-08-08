@@ -1,7 +1,5 @@
-// Proyecto 1
 // Eleazar Rojas
 // C.I. 12715403
-// Sección C1
 
 #include <iostream>
 #include <stdio.h>
